@@ -195,11 +195,4 @@ This API can be deployed using various platforms such as Heroku, AWS, Google Clo
 - TypeScript
 - MongoDB
 
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
